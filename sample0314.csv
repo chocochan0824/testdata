@@ -1,0 +1,45 @@
+Gender,Field,Age,Distance to city center,Monthly salary,The device that is frequently used for watching videos,Preference regarding the length of regional promotional videos,Preference for the platform to watch regional promotional videos,Have you ever had the experience of stopping a regional promotional video playback midway?,Do you watch videos often every day,Do you have an interest in traveling?,Do you have an interest in landscapes (natural scenery and architecture) showcased in regional promotional videos?,Do you have an interest in history and culture showcased in regional promotional videos?,Do you have an interest in gourmet cuisine showcased in regional promotional videos?,Do you have an interest in souvenirs showcased in regional promotional videos?,Do you have an interest in events or festivals showcased in regional promotional videos?,The desire to visit the actual location after watching a regional promotional video
+FeMale,Arts,10~19,41~50km,30K~50K Yen,Smartphone,15~30s,YouTube,Yes,5,5,2,1,4,2,2,5
+FeMale,Arts,20~29,10~20km,10K~30K Yen,PC,30~60s,Instagram,Yes,4,5,4,4,3,3,2,3
+Male,Arts,30~39,0~10km,50K~100K Yen,Tablet,30~60s,Bilibili,No,3,5,2,3,3,3,3,3
+Male,Humanities,20~29,0~10km,100K~200K Yen,Smartphone,0~15s,TikTok,Yes,5,5,5,4,5,4,4,4
+Male,Arts,20~29,10~20km,0~10K Yen,Smartphone,30~60s,Instagram,Yes,1,4,2,4,3,3,4,4
+FeMale,Arts,20~29,0~10km,10K~30K Yen,Smartphone,30~60s,Instagram,Yes,5,5,5,5,3,4,3,4
+FeMale,Arts,20~29,31~40km,50K~100K Yen,Smartphone,60s~5min,YouTube,Yes,3,5,4,3,4,3,3,3
+FeMale,Arts,20~29,10~20km,50K~100K Yen,PC,30~60s,Instagram,Yes,5,5,5,2,5,5,5,5
+Male,Science,20~29,10~20km,50K~100K Yen,PC,60s~5min,Bilibili,Yes,5,3,4,3,5,3,5,4
+Male,Arts,40~49,41~50km,300K~400K Yen,PC,60s~5min,YouTube,Yes,3,2,5,5,2,2,4,3
+Male,Science,20~29,0~10km,200K~300K Yen,Smartphone,30~60s,Instagram,Yes,3,4,3,4,3,4,2,3
+Male,Arts,20~29,10~20km,0~10K Yen,Smartphone,60s~5min,Twitter,Yes,5,1,1,1,1,1,1,1
+FeMale,Arts,20~29,10~20km,0~10K Yen,Smartphone,0~30s,TikTok,Yes,5,5,5,3,5,5,5,5
+FeMale,Arts,10~19,10~20km,0~10K Yen,Tablet,60s~5min,Official Site,Yes,5,1,4,2,3,4,2,3
+FeMale,Arts,20~29,10~20km,0~10K Yen,Smartphone,60s~5min,YouTube,Yes,5,5,5,2,5,5,1,5
+FeMale,Arts,10~19,10~20km,0~10K Yen,Tablet,15~30s,Instagram,No,4,4,5,3,5,3,5,4
+FeMale,Arts,20~29,0~10km,100K~200K Yen,Smartphone,30~60s,Official Site,Yes,3,5,5,5,5,5,5,5
+Male,Arts,10~19,0~10km,50K~100K Yen,Smartphone,0~15s,YouTube,Yes,5,4,3,3,4,4,4,4
+FeMale,Arts,10~19,0~10km,0~10K Yen,Smartphone,15~30s,YouTube,Yes,5,5,5,5,5,5,5,5
+FeMale,Arts,10~19,51~60km,30K~50K Yen,Smartphone,30~60s,Official Site,Yes,5,4,3,4,4,5,4,4
+FeMale,Arts,10~19,51~60km,30K~50K Yen,Smartphone,30~60s,Instagram,Yes,5,4,4,4,5,5,4,4
+Male,Arts,10~19,0~10km,100K~200K Yen,Smartphone,15~30s,YouTube,Yes,5,3,3,3,3,3,3,4
+FeMale,Arts,20~29,51~60km,50K~100K Yen,Smartphone,30~60s,TikTok,No,5,5,5,5,5,5,5,5
+FeMale,Humanities,10~19,0~10km,50K~100K Yen,TV,15~30s,Instagram,Yes,5,4,5,2,5,1,1,3
+Male,Arts,20~29,0~10km,50K~100K Yen,PC,30~60s,YouTube,Yes,5,4,5,3,5,2,3,4
+Male,Arts,10~19,0~10km,0~10K Yen,Smartphone,30~60s,TikTok,Yes,5,4,4,2,5,5,4,4
+FeMale,Arts,10~19,31~40km,30K~50K Yen,Smartphone,15~30s,TikTok,Yes,5,1,1,1,1,1,1,2
+FeMale,Arts,10~19,0~10km,50K~100K Yen,Smartphone,60s~5min,TikTok,Yes,5,5,5,5,4,3,4,4
+Male,Arts,10~19,41~50km,50K~100K Yen,Smartphone,30~60s,TikTok,Yes,5,3,2,2,2,2,2,2
+FeMale,Arts,20~29,0~10km,50K~100K Yen,Smartphone,0~15s,Instagram,Yes,5,5,4,4,5,5,5,5
+Male,Arts,10~19,0~10km,30K~50K Yen,PC,60s~5min,Twitter,Yes,4,3,3,3,2,3,3,3
+FeMale,Arts,10~19,21~30km,30K~50K Yen,Smartphone,15~30s,YouTube,Yes,5,5,3,3,5,4,4,4
+FeMale,Arts,10~19,41~50km,0~10K Yen,PC,30~60s,YouTube,No,5,5,4,5,5,3,4,4
+FeMale,Arts,10~19,0~10km,0~10K Yen,Smartphone,0~15s,YouTube,Yes,5,5,4,4,5,5,5,5
+FeMale,Arts,10~19,0~10km,50K~100K Yen,TV,30~60s,YouTube,Yes,5,2,5,5,5,5,5,4
+FeMale,Arts,10~19,0~10km,30K~50K Yen,Smartphone,15~30s,Twitter,No,5,5,5,5,5,4,4,4
+Male,Arts,50~59,0~10km,400K~500K Yen,TV,15~30s,YouTube,Yes,5,5,5,4,5,5,4,3
+FeMale,Arts,10~19,0~10km,50K~100K Yen,Smartphone,0~15s,TikTok,Yes,5,5,5,2,5,5,5,4
+FeMale,Arts,10~19,0~10km,30K~50K Yen,Smartphone,0~15s,Instagram,Yes,5,5,5,5,5,5,5,4
+FeMale,Humanities,20~29,10~20km,50K~100K Yen,Smartphone,15~30s,YouTube,Yes,5,5,5,5,5,5,4,5
+Male,Humanities,40~49,0~10km,400K~500K Yen,Smartphone,30~60s,Instagram,Yes,5,4,3,4,4,3,3,4
+Male,Humanities,20~29,0~10km,30K~50K Yen,Smartphone,15~30s,Instagram,Yes,5,4,4,3,4,3,5,4
+Male,Humanities,20~29,0~10km,50K~100K Yen,Smartphone,60s~5min,Official Site,Yes,5,5,5,5,5,5,5,5
+FeMale,Humanities,30~39,10~20km,200K~300K Yen,Smartphone,30~60s,Instagram,Yes,5,5,4,3,5,4,3,4
